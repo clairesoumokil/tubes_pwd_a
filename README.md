@@ -50,13 +50,13 @@ Berikut adalah akun yang telah disiapkan dalam database (`reporting_system_final
 Memiliki akses penuh ke Dashboard, Manajemen Laporan, dan Chat Admin.
 - **Username**: `admin`
 - **Email**: `admin@cyberreport.com`
-- **Password**: `123`
+- **Password**: `admin123`
 
 ### 2. Akun Pengguna (User)
 Akses untuk membuat laporan baru dan berkomunikasi dengan admin.
 - **Username**: `testuser`
 - **Email**: `test@example.com`
-- **Password**: `123`
+- **Password**: `user123`
 
 *(Password yang tersimpan di database sudah di-hash. Gunakan password teks di atas saat login).*
 
@@ -92,4 +92,6 @@ Buka browser (Chrome/Edge/Firefox) dan kunjungi alamat berikut:
 **NPM: 220711685** ||
 **Minerva Benedicto Gahansa**
 **NPM: 240713032**
+**Claire Carla Soumokil**
+**NPM: 210711148**
 Mahasiswa Universitas Atma Jaya Yogyakarta
